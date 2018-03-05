@@ -42,3 +42,9 @@ Here is a brief overview of the Kleros' implementation software architecture: [S
 
 There is a bit of a set up process involved if you want to develop with your own smart contracts. You can find that here: [Smart Contract Deployment and Usage](/smart-contract-deployment-and-usage.md).
 
+---
+
+## Support
+
+If you have any questions or need help, reach out to us on our slack channel here: [https://slack.kleros.io](https://slack.kleros.io).
+
