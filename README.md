@@ -2,9 +2,11 @@
 
 The purpose of this repository is to serve as a living contribution and collaboration guide for all our projects.
 
-Everyone, not just Kleros employees, are welcome to participate in its writing and editing.
+Everyone, not just Kleros employees, is welcome to participate in its writing and editing.
 
 All of our projects' `CONTRIBUTING.md` files link to this page, but they can also specify their own project specific guidelines in that same file.
+
+This GitBook is maintained at [github.com/kleros/kleros.md](https://github.com/kleros/kleros.md) and hosted at [kleros.gitbooks.io/kleros-md](https://kleros.gitbooks.io/kleros-md/)!
 
 ---
 
